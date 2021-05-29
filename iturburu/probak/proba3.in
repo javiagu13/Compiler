@@ -1,0 +1,15 @@
+program proba3
+
+[*exit eta while forever probatzen dira*]
+
+  int a, b, c;
+  
+  float d, e; 
+		
+  proc batu(int => x; int => y; int <=> emaitza)
+  
+	  int lag, bueltak;   
+	  
+  {lag = y; emaitza = x;} # proc amaiera
+{ while forever{ exit; println(d);};
+}
